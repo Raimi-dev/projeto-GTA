@@ -1,1 +1,1 @@
-Esse projeto foi feito no mês de Fevereiro de 2024 utilizando HTML, CSS e JavaScript. Tenho mais detalhes do procedimento desse projeto em portfolio, imagens com horários e datas.
+Esse projeto foi feito no mês de Fevereiro de 2024 utilizando HTML, CSS e JavaScript. Tenho mais detalhes do procedimento desse projeto em portfolio, imagens com horários e datas no meu LinkedIn: https://www.linkedin.com/in/raimi-carneiro-945bb3154/ entrar em contato.
